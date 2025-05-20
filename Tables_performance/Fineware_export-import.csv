@@ -1,0 +1,53 @@
+producing_region;period;export-import;
+Adria;A;-16.66666667;negative
+;B;-12.12121212;negative
+;C;-12.90322581;negative
+;D;-17.39130435;negative
+Aegean;A;-4.335443348;negative
+;B;-13.98433038;negative
+;C;-18.02239923;negative
+;D;-12.3064578;negative
+Eastern Mediterranean;A;-1.69068905;negative
+;B;-1.42928457;negative
+;C;1.889852865;positive
+;D;-8.041391474;negative
+Egypt;A;-8.198924731;negative
+;B;-6.060606061;negative
+;C;-5.29266247;negative
+;D;-4.347826087;negative
+Gallia;A;-2.818310371;negative
+;B;-1.026386219;negative
+;C;8.451824818;positive
+;D;2.454262033;positive
+Iberian Peninsula;A;2.28526067;positive
+;B;2.752314499;positive
+;C;3.691768987;positive
+;D;3.396916841;positive
+Italy;A;20.20187302;positive
+;B;19.4675131;positive
+;C;9.41403261;positive
+;D;-0.51294101;negative
+North Africa;A;-6.214176986;negative
+;B;-6.735903427;negative
+;C;-7.11573196;negative
+;D;2.26816398;positive
+Pontic Sea;A;0.396026774;positive
+;B;0.865131428;positive
+;C;1.380969332;positive
+;D;6.933823084;positive
+unknown;A;19.23612031;positive
+;B;12.92185936;positive
+;C;15.94109527;positive
+;D;26.01855443;positive
+Western Mediterranean;A;6.128583583;positive
+;B;14.4418135;positive
+;C;9.016088482;positive
+;D;5.876026437;positive
+Tarraconensis;A;-8.323653199;negative
+;B;-6.060606061;negative
+;C;-3.225806452;negative
+;D;-4.347826087;negative
+Baetica;A;0;null
+;B;-3.03030303;negative
+;C;-3.225806452;negative
+;D;0;null
